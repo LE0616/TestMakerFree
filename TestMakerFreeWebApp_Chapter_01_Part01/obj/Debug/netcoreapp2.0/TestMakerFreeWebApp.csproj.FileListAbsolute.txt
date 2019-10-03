@@ -1,0 +1,15 @@
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\package.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\tsconfig.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\TestMakerFreeWebApp.deps.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\TestMakerFreeWebApp.runtimeconfig.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\TestMakerFreeWebApp.runtimeconfig.dev.json
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\TestMakerFreeWebApp.dll
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\bin\Debug\netcoreapp2.0\TestMakerFreeWebApp.pdb
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\obj\Debug\netcoreapp2.0\TestMakerFreeWebApp.AssemblyInfoInputs.cache
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\obj\Debug\netcoreapp2.0\TestMakerFreeWebApp.AssemblyInfo.cs
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\obj\Debug\netcoreapp2.0\TestMakerFreeWebApp.dll
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\obj\Debug\netcoreapp2.0\TestMakerFreeWebApp.pdb
+C:\Users\lm616\Desktop\CodingProjects\dotNET\TestMakerFree\TestMakerFreeWebApp_Chapter_01_Part01\obj\Debug\netcoreapp2.0\TestMakerFreeWebApp.csprojAssemblyReference.cache
